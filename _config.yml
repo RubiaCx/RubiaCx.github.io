@@ -2,13 +2,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xi Chen"
+title                    : "ChenXi's homepage"
 title_separator          : "-"
-name                     : &name "陈茜"
-description              : &description "湖南大学，计算机科学与技术专业"
+name                     : &name "Xi Chen"
+description              : &description "personal description"
 url                      : https://rubiacx.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RubiaCx/RubiaCx.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ author:
   bio              : "湖南大学，计算机科学与技术专业"
   location         : "山东济南 -> 湖南长沙"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "chenxi19@hnu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
