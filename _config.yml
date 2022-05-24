@@ -4,7 +4,7 @@
 locale                   : "en-US"
 title                    : "ChenXi's homepage"
 title_separator          : "-"
-name                     : &name "Xi Chen"
+name                     : &name "ChenXi's homepage"
 description              : &description "personal description"
 url                      : https://rubiacx.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
